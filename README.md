@@ -70,22 +70,73 @@
 
 ## 🚀 Projects  
 
+<table>
+<tr>
+<td width="55%">
+
 ### 💊 AI Medication Safety Advisor  
+
 - Predicts diseases from symptoms (**87.5% accuracy**)  
 - Detects drug interactions  
 - Provides medication safety recommendations  
 
+</td>
+
+<td width="45%">
+
+<a href="https://github.com/kri6228/AI_Medication_Safety_Advisor">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kri6228&repo=AI_Medication_Safety_Advisor&theme=tokyonight" />
+</a>
+
+</td>
+</tr>
+</table>
+
 ---
 
+<table>
+<tr>
+<td width="55%">
+
 ### 🔋 Renewable Adoption Predictor  
+
 - Machine Learning model for energy adoption prediction  
 - Includes preprocessing, training & evaluation  
 
+</td>
+
+<td width="45%">
+
+<a href="https://github.com/kri6228/Renewable_Adoption_Predictor">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kri6228&repo=Renewable_Adoption_Predictor&theme=tokyonight" />
+</a>
+
+</td>
+</tr>
+</table>
+
 ---
 
+<table>
+<tr>
+<td width="55%">
+
 ### 🤖 AI Assistive Agent *(Ongoing)*  
+
 - Automating college administrative tasks  
 - Cloud-deployed smart productivity system  
+
+</td>
+
+<td width="45%">
+
+<a href="https://github.com/kri6228/ums_AI_agent_college_project">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kri6228&repo=ums_AI_agent_college_project&theme=tokyonight" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
